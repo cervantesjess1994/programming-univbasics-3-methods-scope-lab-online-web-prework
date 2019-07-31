@@ -8,3 +8,8 @@ def toadstool = status
   puts "Thank You Mario! But Our Princess Is In Another Castle!"
   puts status
 end
+
+def link = phrase
+  puts "It's Dangerous To Go Alone! Take This."
+  puts phrase
+end
